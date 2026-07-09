@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "name": "Notebook",
+  "identifier": "notebook",
+  "author": "Jordan Richardson",
+  "github": "https://github.com/YOUR_USERNAME/lumiverse-notebook",
+  "homepage": "https://github.com/YOUR_USERNAME/lumiverse-notebook",
+  "description": "Save quotes, ideas, and message snippets to a running notebook you can reach from anywhere in Lumiverse.",
+  "permissions": [],
+  "entry_backend": "src/backend.ts",
+  "entry_frontend": "src/frontend.ts",
+  "minimum_lumiverse_version": "0.1.0"
+}

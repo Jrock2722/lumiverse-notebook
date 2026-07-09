@@ -1,0 +1,10 @@
+{
+  "name": "lumiverse-notebook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Lumiverse Spindle extension for saving quotes, ideas, and message snippets to a running notebook.",
+  "devDependencies": {
+    "lumiverse-spindle-types": "^0.5.31",
+    "typescript": "^5.4.0"
+  }
+}
